@@ -6,8 +6,8 @@ Implement this new standard into any existing crypto wallet that supports mnemon
 
 # Contents
 
-* [Swift](#tree/master/mnemonic-stenography-swift)
-* [Python](#tree/master/mnemonic-stenography-python)
+* [Swift](MnemonicStenography/tree/master/mnemonic-stenography-swift)
+* [Python](MnemonicStenography/tree/master/mnemonic-stenography-python)
 
 1. Ask user for encryption password & encrypt mnemonic seed
 2. Encode mnemonic seed into image (using stenography)

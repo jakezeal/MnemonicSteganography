@@ -5,7 +5,6 @@ Mainstream adoption requires easy security. Instead of writing down a 12 word co
 # Supported Languages
 
 * [Swift](mnemonic-stenography-swift)
-* [Python](mnemonic-stenography-python)
 
 ## Inspiration
 

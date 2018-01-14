@@ -2,7 +2,7 @@
 
 Mainstream adoption requires easy security. Instead of writing down a 12 word code, save an image with encrypted data
 
-# Contents
+# Supported Languages
 
 * [Swift](mnemonic-stenography-swift)
 * [Python](mnemonic-stenography-python)

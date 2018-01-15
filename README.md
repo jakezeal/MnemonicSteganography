@@ -4,7 +4,7 @@ Mainstream adoption requires easy security. Instead of writing down a 12 word co
 
 # Supported Languages
 
-* [Swift](mnemonic-stenography-swift)
+* [Swift](https://github.com/jakezeal/MnemonicSteganography/tree/master/mnemonic-steganography-swift)
 
 ## Inspiration
 

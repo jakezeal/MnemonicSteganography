@@ -1,0 +1,3 @@
+[submodule "mnemonic-steganography-swift/swift-stego"]
+	path = mnemonic-steganography-swift/swift-stego
+	url = git@github.com:brianhans/SwiftStego.git

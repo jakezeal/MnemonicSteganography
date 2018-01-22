@@ -1,3 +1,6 @@
 [submodule "mnemonic-steganography-swift/swift-stego"]
 	path = mnemonic-steganography-swift/swift-stego
 	url = git@github.com:brianhans/SwiftStego.git
+[submodule "mnemonic-steganography-swift/breadwallet-example"]
+	path = mnemonic-steganography-swift/breadwallet-example
+	url = git@github.com:Nicholas-Swift/breadwallet-ios.git

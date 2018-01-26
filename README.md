@@ -2,6 +2,8 @@
 
 Mainstream adoption requires easy security. Instead of writing down a 12 word code, save an image with encrypted data
 
+![Crypto Image](https://j.gifs.com/XoqNr8.gif)
+
 # Supported Languages
 
 * [Swift](mnemonic-stenography-swift)
